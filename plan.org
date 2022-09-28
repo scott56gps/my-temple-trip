@@ -1,0 +1,31 @@
+* My Temple Trip
+** TODO View Temple Schedule API                                :Reservation:
+DEADLINE: <2022-10-08 Sat>
+** TODO Create TempleTrip API                                   :Reservation:
+DEADLINE: <2022-10-08 Sat>
+** TODO Delete TempleTrip API                                   :Reservation:
+DEADLINE: <2022-10-08 Sat>
+** TODO Modify TempleTrip API                                   :Reservation:
+DEADLINE: <2022-10-08 Sat>
+** TODO View Reserved Ancestors API                             :Reservation:
+DEADLINE: <2022-10-15 Sat>
+** TODO View Temple Schedule UI                                 :Reservation:
+DEADLINE: <2022-10-22 Sat>
+** TODO Create TempleTrip Reservation UI                        :Reservation:
+DEADLINE: <2022-10-29 Sat>
+** TODO View Reserved Ancestors UI                              :Reservation:
+DEADLINE: <2022-10-29 Sat>
+** TODO Remove TempleTrip Reservation UI                        :Reservation:
+DEADLINE: <2022-11-05 Sat>
+** TODO Modify TempleTrip Reservation UI                        :Reservation:
+DEADLINE: <2022-11-05 Sat>
+** TODO Add Reseved Ancestor to TempleTrip UI                   :Reservation:
+DEADLINE: <2022-11-05 Sat>
+** TODO Siri Suggestion display info (No Auto-Reservation)      :Recommender:
+DEADLINE: <2022-11-26 Sat>
+** TODO Suggestion day inference logic                          :Recommender:
+DEADLINE: <2022-12-03 Sat>
+** TODO Siri Suggestion Auto Reservation                        :Recommender:
+DEADLINE: <2022-12-03 Sat>
+** TODO Siri Shortcut Reserve Temple Slot                       :Recommender:
+DEADLINE: <2022-12-14 Wed>
